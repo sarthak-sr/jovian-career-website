@@ -1,1 +1,2 @@
-# jovian-career-website
+# jovian-careers-website
+A careers website for Jovian
